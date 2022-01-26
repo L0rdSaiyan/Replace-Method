@@ -1,1 +1,1 @@
-# Replace-Method
+Utilizando o método **replace()**, é possível, identificar uma sequencia de caracteres (Strings) específicas dentro de uma string, e substituilos por outras Strings. No meu exemplo, troquei os nomes "Vegetto" por "Gogeta" utilizando o método **replace()**.
